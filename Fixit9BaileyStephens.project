@@ -41,6 +41,35 @@
             "membership", 
             "membership.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "MadLib", 
+            "MadLib.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "twoControls", 
+            "twoControls.json"
+          ]
+        }, 
+        {
+          "!type": "Code", 
+          "cached_js": null, 
+          "cached_js_script_hash": null, 
+          "children": [], 
+          "expanded_pmp": null, 
+          "id": "Cool_Car", 
+          "language": "Other", 
+          "loadType": "", 
+          "obfuscate": "false", 
+          "script": "", 
+          "src": "Cool Car"
         }
       ], 
       "configxml": null, 
@@ -57,7 +86,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "membership", 
+      "firstform": "twoControls", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 
